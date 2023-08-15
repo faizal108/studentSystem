@@ -1,7 +1,6 @@
 package com.faizal.studentsystem.service;
 
 import com.faizal.studentsystem.Model.Student;
-import com.faizal.studentsystem.StudentsystemApplication;
 import com.faizal.studentsystem.repository.StudentRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
